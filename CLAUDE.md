@@ -1,5 +1,7 @@
 # DecibHello
 
+**Proyecto trasladado** el 8 oct 2026 a https://github.com/pablopiqueras85/decibhello (rama `main`). Esta rama queda como archivo: no trabajes aquí.
+
 Plataforma para consultar el ruido de una calle o portal antes de alquilar o comprar. Empieza por Barcelona. El usuario (Pablo) escribe en castellano: responde y documenta en castellano, con frases cortas y sin jerga.
 
 ## Qué hay
